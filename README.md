@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Vidushika Madhushani
+## 🎓 Software Engineering Undergraduate | 💻 Full-Stack Developer (Java • MERN) | 🚀 Passionate Learner
 
-<!--
-**Vidushika0819/Vidushika0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 3rd-year Software Engineering student at SLIIT specializing in building clean, functional web applications.
+I love working with Java, MERN stack, mobile apps, and real-world problem-solving projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 3rd Year Software Engineering Undergraduate (SLIIT)
+
+💼 Actively seeking internship opportunities
+
+💻 Skilled in Java, MERN, PHP, MySQL
+
+📱 Experience with Android / Mobile Development
+
+🧠 Interested in Cloud, DevOps, and AI tools
+
+🌱 Currently improving: React.js | Node.js | Java Spring
+
+## 🛠 Tech Stack
+
+### Languages
+
+Java JavaScript PHP C Kotlin HTML CSS
+
+### Frameworks & Tools
+
+React Node.js Express MySQL MongoDB
+JSP Servlets
+Git GitHub Figma Postman
+
+## 📌 Featured Projects
+🛒 Online E-Shopping Store (Java + Servlet + MySQL)
+
+CRUD operations, login module, MVC structure
+🔗 GitHub Repo Link
+
+🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
+
+Full MERN app with 5 major modules
+🔗 GitHub Repo Link
+
+✈️ Tour Guide Management System (Java + JSP)
+
+CRUD operations + clean architecture
+🔗 GitHub Repo Link
+
+🏨 Hotel Reservation System (PHP + MySQL)
+
+Admin panel, user reservations, payment simulation
+🔗 GitHub Repo Link
+
+## 📫 Contact Me
+
+📧 Email: withanagevidhu@mail.com
+🔗 LinkedIn: 
+
+## 🤝 Let's Connect
+
+Feel free to reach out for collaborations, internships, or project help!
