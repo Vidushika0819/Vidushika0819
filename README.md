@@ -39,7 +39,7 @@ CRUD operations, login module, MVC structure
 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
 
 Full MERN app with 5 major modules
-🔗 GitHub Repo Link
+🔗 GitHub Repo Link - https://github.com/Vidushika0819/smart-school-bus-system.git
 
 ✈️ Tour Guide Management System (Java + JSP)
 
