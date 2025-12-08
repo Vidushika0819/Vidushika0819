@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vidushika Madhushani
 ## 🎓 Software Engineering Undergraduate | 💻 Full-Stack Developer (Java • MERN) | 🚀 Passionate Learner
 
-### I’m a 3rd-year Software Engineering student at SLIIT specializing in building clean, functional web applications.
+I’m a 3rd-year Software Engineering student at SLIIT specializing in building clean, functional web applications.
 I love working with Java, MERN stack, mobile apps, and real-world problem-solving projects.
 
 ## 🚀 About Me
