@@ -21,35 +21,40 @@ I love working with Java, MERN stack, mobile apps, and real-world problem-solvin
 ## 🛠 Tech Stack
 
 ### Languages
-
+```
 Java JavaScript PHP C Kotlin HTML CSS
-
+```
 ### Frameworks & Tools
-
+```
 React Node.js Express MySQL MongoDB
 JSP Servlets
 Git GitHub Figma Postman
+```
 
 ## 📌 Featured Projects
-🛒 Online E-Shopping Store (Java + Servlet + MySQL)
+### 🛒 Online E-Shopping Store (Java + Servlet + MySQL)
 
 CRUD operations, login module, MVC structure
-🔗 GitHub Repo Link
 
-🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
+🔗 GitHub Repo Link - https://github.com/Vidushika0819/online-eshopping-store.git
+
+### 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
 
 Full MERN app with 5 major modules
+
 🔗 GitHub Repo Link - https://github.com/Vidushika0819/smart-school-bus-system.git
 
-✈️ Tour Guide Management System (Java + JSP)
+### ✈️ Tour Guide Management System (Java + JSP)
 
 CRUD operations + clean architecture
-🔗 GitHub Repo Link
 
-🏨 Hotel Reservation System (PHP + MySQL)
+🔗 GitHub Repo Link - https://github.com/Vidushika0819/tourguide-system.git
+
+### 🏨 Hotel Reservation System (PHP + MySQL)
 
 Admin panel, user reservations, payment simulation
-🔗 GitHub Repo Link
+
+🔗 GitHub Repo Link - https://github.com/Vidushika0819/hotel-reservation-system.git
 
 ## 📫 Contact Me
 
