@@ -46,17 +46,18 @@ Postman
 ```
 
 ## 📌 Featured Projects
+
+### 🏨 Hotel Reservation System (PHP + MySQL)
+
+Admin panel, user reservations, payment simulation
+
+🔗 GitHub Repo Link - https://github.com/Vidushika0819/hotel-reservation-system.git
+
 ### 🛒 Online E-Shopping Store (Java + Servlet + MySQL)
 
 CRUD operations, login module, MVC structure
 
 🔗 GitHub Repo Link - https://github.com/Vidushika0819/online-eshopping-store.git
-
-### 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
-
-Full MERN app with 5 major modules
-
-🔗 GitHub Repo Link - https://github.com/Vidushika0819/smart-school-bus-system.git
 
 ### ✈️ Tour Guide Management System (Java + JSP)
 
@@ -64,11 +65,11 @@ CRUD operations + clean architecture
 
 🔗 GitHub Repo Link - https://github.com/Vidushika0819/tourguide-system.git
 
-### 🏨 Hotel Reservation System (PHP + MySQL)
+### 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
 
-Admin panel, user reservations, payment simulation
+Full MERN app with 5 major modules
 
-🔗 GitHub Repo Link - https://github.com/Vidushika0819/hotel-reservation-system.git
+🔗 GitHub Repo Link - https://github.com/Vidushika0819/smart-school-bus-system.git
 
 ## 📫 Contact Me
 
