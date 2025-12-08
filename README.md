@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vidushika Madhushani
 ## 🎓 Software Engineering Undergraduate | 💻 Full-Stack Developer (Java • MERN) | 🚀 Passionate Learner
 
-I’m a 3rd-year Software Engineering student at SLIIT specializing in building clean, functional web applications.
+### I’m a 3rd-year Software Engineering student at SLIIT specializing in building clean, functional web applications.
 I love working with Java, MERN stack, mobile apps, and real-world problem-solving projects.
 
 ## 🚀 About Me
@@ -22,13 +22,27 @@ I love working with Java, MERN stack, mobile apps, and real-world problem-solvin
 
 ### Languages
 ```
-Java JavaScript PHP C Kotlin HTML CSS
+Java
+JavaScript
+PHP
+C
+Kotlin
+HTML
+CSS
 ```
 ### Frameworks & Tools
 ```
-React Node.js Express MySQL MongoDB
-JSP Servlets
-Git GitHub Figma Postman
+React
+Node.js
+Express
+MySQL
+MongoDB
+JSP
+Servlets
+Git
+GitHub
+Figma
+Postman
 ```
 
 ## 📌 Featured Projects
@@ -59,6 +73,7 @@ Admin panel, user reservations, payment simulation
 ## 📫 Contact Me
 
 📧 Email: withanagevidhu@mail.com
+
 🔗 LinkedIn: 
 
 ## 🤝 Let's Connect
