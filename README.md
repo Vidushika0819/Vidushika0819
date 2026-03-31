@@ -1,83 +1,28 @@
 # 👋 Hi, I'm Vidushika Madhushani
-## 🎓 Software Engineering Undergraduate | 💻 Full-Stack Developer (Java • MERN) | 🚀 Passionate Learner
 
-I’m a 3rd-year Software Engineering student at SLIIT specializing in building clean, functional web applications.
-I love working with Java, MERN stack, mobile apps, and real-world problem-solving projects.
+## 🎓 IT Undergraduate | 💻 Aspiring Software Developer | 🚀 Passionate Learner
+
+I’m a 3rd-year Information Technology undergraduate at SLIIT specializing in building clean and functional web applications.  
+I enjoy working with different technologies and solving real-world problems through projects.
+
+---
 
 ## 🚀 About Me
 
-🎓 3rd Year Software Engineering Undergraduate (SLIIT)
+🎓 3rd Year IT Undergraduate (SLIIT)  
 
-💼 Actively seeking internship opportunities
+💼 Actively seeking internship opportunities  
 
-💻 Skilled in Java, MERN, PHP, MySQL
+💻 Skilled in Java, JavaScript, PHP, MySQL  
 
-📱 Experience with Android / Mobile Development
+📱 Basic experience with mobile application development  
 
-🧠 Interested in Cloud, DevOps, and AI tools
+🧠 Interested in Software Development, DevOps, and Cloud technologies  
 
-🌱 Currently improving: React.js | Node.js | Java Spring
+🌱 Currently improving: React.js | Node.js | Python | SQL  
+
+---
 
 ## 🛠 Tech Stack
 
 ### Languages
-```
-Java
-JavaScript
-PHP
-C
-Kotlin
-HTML
-CSS
-```
-### Frameworks & Tools
-```
-React
-Node.js
-Express
-MySQL
-MongoDB
-JSP
-Servlets
-Git
-GitHub
-Figma
-Postman
-```
-
-## 📌 Featured Projects
-
-### 🏨 Hotel Reservation System (PHP + MySQL)
-
-Admin panel, user reservations, payment simulation
-
-🔗 GitHub Repo Link - https://github.com/Vidushika0819/hotel-reservation-system.git
-
-### 🛒 Online E-Shopping Store (Java + Servlet + MySQL)
-
-CRUD operations, login module, MVC structure
-
-🔗 GitHub Repo Link - https://github.com/Vidushika0819/online-eshopping-store.git
-
-### ✈️ Tour Guide Management System (Java + JSP)
-
-CRUD operations + clean architecture
-
-🔗 GitHub Repo Link - https://github.com/Vidushika0819/tourguide-system.git
-
-### 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
-
-Full MERN app with 5 major modules
-
-🔗 GitHub Repo Link - https://github.com/Vidushika0819/smart-school-bus-system.git
-
-
-## 📫 Contact Me
-
-📧 Email: withanagevidhu@mail.com
-
-🔗 LinkedIn: 
-
-## 🤝 Let's Connect
-
-Feel free to reach out for collaborations, internships, or project help!
