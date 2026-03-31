@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vidushika Madhushani
 
-## 🎓 IT Undergraduate | 💻 Aspiring Software Developer | ⚙️ DevOps Enthusiast | 🚀 Passionate Learner
+## 🎓 IT Undergraduate | 💻 Aspiring Software Developer | ⚙️ DevOps Enthusiast 
 
 I’m a 3rd-year Information Technology undergraduate at SLIIT specializing in building clean and functional web applications.  
 I enjoy working with different technologies and solving real-world problems through projects.
