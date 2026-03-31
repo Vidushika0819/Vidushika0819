@@ -62,7 +62,7 @@ Git | GitHub | Figma | Postman
 ## 📫 Contact Me
 
 📧 Email: withanagevidhu@mail.com  
-🔗 LinkedIn: ()  
+🔗 LinkedIn: (https://github.com/Vidushika0819)  
 
 ---
 
