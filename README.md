@@ -60,8 +60,8 @@ Git | GitHub | Figma | Postman
 ---
 
 ### 📱 Habit Tracker App – Daily Habit Management Mobile Application (Kotlin + Room)
-- Simple Android app to track daily habits, mark progress, and improve consistency using Room database
-🔗 https://github.com/Vidushika0819/habit-tracker-app
+- Simple Android app to track daily habits, mark progress, and improve consistency using Room database  
+🔗 https://github.com/Vidushika0819/habit-tracker-app  
 
 ---
 
