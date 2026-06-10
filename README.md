@@ -41,13 +41,13 @@ Git | GitHub | Figma | Postman
 
 ---
 
-### 🛒 Online E-Shopping Store (Java + Servlet + MySQL)
+### 🛒 Online E-Shopping Store (JSP + Servlet + MySQL)
 - CRUD operations, login module, MVC structure  
 🔗 https://github.com/Vidushika0819/online-eshopping-store  
 
 ---
 
-### ✈️ Tour Guide Management System (Java + Servlet + MySQL)
+### ✈️ Tour Guide Management System (JSP + Servlet + MySQL)
 - CRUD operations with clean architecture  
 🔗 https://github.com/Vidushika0819/tourguide-system  
 
