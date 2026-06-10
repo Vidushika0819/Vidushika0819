@@ -53,7 +53,7 @@ Git | GitHub | Figma | Postman
 
 ---
 
-### 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN)
+### 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN Stack)
 - Full MERN application with multiple modules  
 🔗 https://github.com/Vidushika0819/smart-school-bus-system  
 
