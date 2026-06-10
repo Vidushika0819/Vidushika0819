@@ -47,7 +47,7 @@ Git | GitHub | Figma | Postman
 
 ---
 
-### ✈️ Tour Guide Management System (Java + JSP)
+### ✈️ Tour Guide Management System (Java + Servlet + MySQL)
 - CRUD operations with clean architecture  
 🔗 https://github.com/Vidushika0819/tourguide-system  
 
