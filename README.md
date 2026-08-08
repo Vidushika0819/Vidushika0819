@@ -22,14 +22,26 @@ I enjoy working with different technologies and solving real-world problems thro
 ### Languages
 Java | JavaScript | PHP | C | Kotlin | HTML | CSS  
 
-### Frameworks & Technologies
-React | Node.js | Express | JSP | Servlets 
+### Frontend
+React | Vite | React Router | Redux Toolkit | React Query | React Hook Form | Zod | Tailwind CSS
+
+### Backend
+Node.js | Express.js | Spring Boot | Spring Data JPA | Spring Security | JSP | Servlets
 
 ### Databases
-MySQL | MongoDB | Oracle SQL  
+MongoDB | PostgreSQL | MySQL | Oracle SQL 
 
-### Tools & Platforms
-Git | GitHub | Figma | Postman  
+### Authentication & Security
+JWT | Google OAuth 2.0 | Passport.js | Helmet  
+
+### Testing & API Tools
+Jest | Supertest | Postman
+
+### DevOps & Cloud
+Docker | Docker Compose | Maven | Cloudinary
+
+### Tools
+Git | GitHub | Figma
 
 ## 📫 Contact Me
 
