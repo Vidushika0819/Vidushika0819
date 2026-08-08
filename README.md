@@ -23,7 +23,7 @@ I enjoy working with different technologies and solving real-world problems thro
 Java | JavaScript | PHP | C | Kotlin | HTML | CSS  
 
 ### Frameworks & Technologies
-React | Node.js | Express | JSP | Servlets | Flask  
+React | Node.js | Express | JSP | Servlets 
 
 ### Databases
 MySQL | MongoDB | Oracle SQL  
