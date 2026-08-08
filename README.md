@@ -12,7 +12,7 @@ I enjoy working with different technologies and solving real-world problems thro
 🎓 3rd Year IT Undergraduate (SLIIT)  
 💼 Actively seeking internship opportunities  
 💻 Experience with web application development and databases  
-🌱 Currently improving: Python | SQL | Flask | React.js | Node.js | DevOps basics  
+🌱 Currently improving: Python | SQL | React.js | Node.js | DevOps basics  
 🧠 Interested in Software Development, DevOps, and Cloud technologies  
 
 ---
