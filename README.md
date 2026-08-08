@@ -31,40 +31,6 @@ MySQL | MongoDB | Oracle SQL
 ### Tools & Platforms
 Git | GitHub | Figma | Postman  
 
----
-
-## 📌 Featured Projects
-
-### 🏨 Hotel Reservation System (PHP + MySQL)
-- Admin panel, user reservations, payment simulation  
-🔗 https://github.com/Vidushika0819/hotel-reservation-system  
-
----
-
-### 🛒 Online E-Shopping Store (JSP + Servlet + MySQL)
-- CRUD operations, login module, MVC structure  
-🔗 https://github.com/Vidushika0819/online-eshopping-store  
-
----
-
-### ✈️ Tour Guide Management System (JSP + Servlet + MySQL)
-- CRUD operations with clean architecture  
-🔗 https://github.com/Vidushika0819/tourguide-system  
-
----
-
-### 🚌 SafeGo – Smart School Bus & Safety Monitoring Portal (MERN Stack)
-- Full MERN application with multiple modules  
-🔗 https://github.com/Vidushika0819/smart-school-bus-system  
-
----
-
-### 📱 Habit Tracker App – Daily Habit Management Mobile Application (Kotlin + Room)
-- Simple Android app to track daily habits, mark progress, and improve consistency using Room database  
-🔗 https://github.com/Vidushika0819/habit-tracker-app  
-
----
-
 ## 📫 Contact Me
 
 📧 Email: withanagevidhu@mail.com  
